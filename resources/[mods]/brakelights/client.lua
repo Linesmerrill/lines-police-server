@@ -10,8 +10,7 @@ Citizen.CreateThread( function()
 
                 if ( GetVehicleClass( veh ) ~= 14 and GetVehicleClass( veh ) ~= 15 and GetVehicleClass( veh ) ~= 16 and GetVehicleClass( veh ) ~= 21 ) then 
                     if ( GetPedInVehicleSeat( vehicle, -1 ) == ped ) then 
-                        -- if ( IsVehicleStopped( vehicle ) ) then 
-                        if ( GetEntitySpeed( vehicle ) == 0 and GetIsVehicleEngineRunning( vehicle ) ) then 
+                        if ( GetEntitySpeed( vehicle ) < 1 and GetIsVehicleEngineRunning( vehicle ) ) then 
                             SetVehicleBrakeLights( vehicle, true )
                         end 
                     end 
