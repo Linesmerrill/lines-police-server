@@ -17,7 +17,7 @@ Mods are located in the `resources/` directory. The current directories for mods
 After placing the mods under the appropiate directory, be sure to add the `start` command for that mod to the `server.cfg` file under the appropriate location.
 
 Simply find the correct spot in the `server.cfg` file. For example if I want to add a new visual mod for `sandyshores` i'll drop that folder inside of `resources/[visual]` and then add the start command: `start sandyshores` to the **visual** section in the `server.cfg` so it should look like:
-`server.cfg`
+
 ```
 ...
 #####################
