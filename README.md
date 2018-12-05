@@ -18,7 +18,7 @@ After placing the mods under the appropiate directory, be sure to add the `start
 
 Simply find the correct spot in the `server.cfg` file. For example if I want to add a new visual mod for `sandyshores` i'll drop that folder inside of `resources/[visual]` and then add the start command: `start sandyshores` to the **visual** section in the `server.cfg` so it should look like:
 
-```
+```properties
 ...
 #####################
 # -- Visual Mods -- #
@@ -31,7 +31,4 @@ start sandyshores   # **<Place the name and version here>**
 ...
 ```
 
-For consistency and help later on, be sure to place the name and version lined up to the right side of the start command. 
-
-
-
+For consistency and help later on, be sure to place the name and version lined up to the right side of the start command.
