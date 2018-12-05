@@ -30,7 +30,7 @@ local disable_player_names = true
 -- Distance in meters. If you are within -distance- meters from another player, you will see their name above their head.
 -- Set this to -1 if you want all player names to be hidden at all times (no matter how close you get to someone, 
 -- you won't see their names). (God permission still overrides this, god players can see them all the time!)
-local disable_player_names_distance = 5
+local disable_player_names_distance = -1
 
 
 --- Don't touch this code
