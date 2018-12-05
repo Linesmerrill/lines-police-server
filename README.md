@@ -27,7 +27,7 @@ start sandyairfield # Modern-Sandy-Shores-Airfield
 start paleto        # Paleto-Bay-Alive
 start ad2           # Real-Movie-Posters---Billboards---Realism-Mod
 start In-N-Out      # In-N-Out---Krispy-Kreme---Real-Billboards
-start sandyshores   # <Place the name and version here>
+start sandyshores   # **<Place the name and version here>**
 ...
 ```
 
