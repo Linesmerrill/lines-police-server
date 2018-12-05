@@ -32,3 +32,7 @@ start sandyshores   # **<Place the name and version here>**
 ```
 
 For consistency and help later on, be sure to place the name and version lined up to the right side of the start command.
+
+## Questions
+
+Send us an email with your questions: [linespoliceserver@gmail.com](mailto:linespoliceserver@gmail.com)
