@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- byBilly (2/8/18) -->
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>fire3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            134
+            134
+			134
+			134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="703" />
+      <sirenSettings value="1000" />
+   </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

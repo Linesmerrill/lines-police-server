@@ -5,7 +5,13 @@
     "sheriff6",
     "um3",
     "um4",
-    "um5"
+    "um5",
+    "engine",
+    "fire1",
+    "fire2",
+    "fire3",
+    "ambulance",
+    "firetruk"
   ],
   "peds": [
     "addonpedname1",
