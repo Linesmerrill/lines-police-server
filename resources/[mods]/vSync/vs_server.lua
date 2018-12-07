@@ -2,6 +2,7 @@
 
 admins = {
     'steam:110000105959047',
+    'license:82b7074c5c4f41a49f9878634f4242a844281dac' --merrill
     --'license:1234975143578921327',
 }
 
