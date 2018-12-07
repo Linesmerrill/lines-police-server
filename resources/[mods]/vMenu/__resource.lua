@@ -3,7 +3,7 @@ resource_manifest_version '05cfa83c-a124-4cfa-a768-c24a5811d8f9'
 name 'vMenu'
 description 'Server sided trainer for FiveM with custom permissions, using NativeUI.'
 author 'Tom Grobbe (www.vespura.com)'
-version 'v1.5.0'
+version 'v2.0.0'
 url 'https://github.com/TomGrobbe/vMenu/'
 client_debug_mode 'false'
 server_debug_mode 'false'
@@ -14,12 +14,7 @@ files {
     'config/locations.json',
 }
 
-exports {
-    'Export_GetPedHeadBlendData'
-}
-
 client_scripts {
-    'mp_ped_data.js',
     'NativeUI.dll',
     'vMenuShared.net.dll',
     'vMenuClient.net.dll',
